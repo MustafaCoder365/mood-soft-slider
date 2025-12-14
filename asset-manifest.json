@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mood-soft-slider/static/css/main.513281e6.css",
+    "main.js": "/mood-soft-slider/static/js/main.9049a432.js",
+    "static/js/453.fbd2b3a7.chunk.js": "/mood-soft-slider/static/js/453.fbd2b3a7.chunk.js",
+    "index.html": "/mood-soft-slider/index.html",
+    "main.513281e6.css.map": "/mood-soft-slider/static/css/main.513281e6.css.map",
+    "main.9049a432.js.map": "/mood-soft-slider/static/js/main.9049a432.js.map",
+    "453.fbd2b3a7.chunk.js.map": "/mood-soft-slider/static/js/453.fbd2b3a7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.513281e6.css",
+    "static/js/main.9049a432.js"
+  ]
+}
