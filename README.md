@@ -1,7 +1,12 @@
 # Mood Soft Slider 🎨
 
-An experimental, mood-driven UI component built with React.
+An experimental, mood-driven UI component built with React.  
 Inspired by art installations and calm interactions rather than traditional sliders.
+
+## 🌍 Live Demo
+👉 https://mustafacoder365.github.io/mood-soft-slider/
+
+---
 
 ## ✨ Features
 - Horizontal expanding slider
@@ -9,13 +14,21 @@ Inspired by art installations and calm interactions rather than traditional slid
 - Smooth breathing animation
 - Grayscale inactive cards
 - Minimal & artistic UI
+- Art-experiment style interaction
+
+---
 
 ## 🧠 Tech Stack
 - React
-- CSS (no libraries)
+- CSS (No UI libraries)
 - useState + map
+- Create React App
+- GitHub Pages
+
+---
 
 ## 🚀 Getting Started
+
+Clone the repository:
 ```bash
-npm install
-npm start
+git clone https://github.com/MustafaCoder365/mood-soft-slider.git
